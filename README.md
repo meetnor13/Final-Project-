@@ -25,6 +25,3 @@ This is a simple Python program that generates a random number between 1 and 100
 
 This program is based on a project from the book "Python Crash Course" by Eric Matthes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
